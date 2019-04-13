@@ -28,7 +28,7 @@
   "dependencies": {
     "@laconia/core": "^0.16.0",
     "@laconia/invoker": "^0.16.0",
-    "bottleneck": "^2.1.0",
+    "bottleneck": "^2.18.0",
     "lodash.get": "^4.4.2",
     "lodash.isplainobject": "^4.0.6"
   },
